@@ -1,0 +1,3 @@
+>=app-emulation/virtualbox-additions-4.1.10 PUEL
+#required by app-emulation/virtualbox-4.1.10[additions], required by virtualbox (argument)
+>=app-emulation/virtualbox-additions-4.1.10 PUEL
