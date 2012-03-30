@@ -1,0 +1,2 @@
+#required by www-client/chromium-18.0.1025.140, required by chromium (argument)
+>=dev-libs/libxml2-2.7.8-r5 icu
