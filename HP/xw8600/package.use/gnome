@@ -4,3 +4,5 @@
 >=x11-libs/libdrm-2.4.32 libkms
 #required by net-misc/vinagre-3.2.2, required by gnome-base/gnome-extra-apps-3.2.1, required by gnome-base/gnome-3.2.1[extras], required by gnome (argument)
 >=net-libs/gtk-vnc-0.5.0 gtk3
+#required by media-sound/pulseaudio-1.99.2, required by net-im/empathy-3.2.2, required by gnome-base/gnome-core-apps-3.2.1, required by gnome-base/gnome-3.2.1, required by @selected, required by @world (argument)
+>=media-plugins/alsa-plugins-1.0.25-r1 pulseaudio
